@@ -100,7 +100,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     - Title & Description 
     - Movie Suggestions
         - MovieLists * N
-
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
